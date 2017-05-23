@@ -24,9 +24,9 @@
 * 2016-至今 上海坦思计算机股份有限公司 担任前端开发工程师
 
 ## 工作经历
-#### [今生缘景区旅游导航](http://baodan.travel.jinshiyuan.com.cn/#/)
+#### [今生缘景区旅游导航](http://travel.jinshiyuan.com.cn/#/)
 * 项目地址
-	* [http://baodan.travel.jinshiyuan.com.cn/#/](http://baodan.travel.jinshiyuan.com.cn/#/)
+	* [http://travel.jinshiyuan.com.cn/#/](http://travel.jinshiyuan.com.cn/#/)
 * 项目简介
 	* 今世缘酒业景区信息的页面展示，包含园区里面景区访问，景点介绍，餐饮住宿，门票，游客访问和游客评论等基本的旅游导航系统
 	* 该项目采用vue来实现SPA项目架构，vue-router, axios来实现该首页展示页面，项目需要适配游客手机以及园区内导航展示屏的显示
