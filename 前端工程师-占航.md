@@ -43,7 +43,7 @@
   - 主要负责整个机萌项目的基础 web 架构，通过搭建前期的 React Native 和支付宝小程序的框架，指导并推进团队进行模块开发，通过与后端小伙伴的接口定义，通过 Mock 进行数据交互，减少前后端项目上的耦合。
   - 负责 React Native 中 ios 以及 android 的 SDK 对接工作，解决类似友盟统计，推送，分享以及热更新，启动页等等 SDK 的对接工作。协同小伙伴解决日常 bug，疑难杂症，整体把控项目的进度。
 
-####[钱米钱包](test.91qianmi.com/index.html)
+#### [钱米钱包](test.91qianmi.com/index.html)
 
 - 项目地址
   - [test.91qianmi.com/index.html](test.91qianmi.com/index.html)
